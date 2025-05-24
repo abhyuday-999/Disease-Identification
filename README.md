@@ -1,1 +1,1 @@
-# Disease-Identification
+# Disease-Identification-An-Intelligent-Healthcare-Solution
